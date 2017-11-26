@@ -1,0 +1,16 @@
+### Java template
+*.class
+.idea
+*.iml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# maven
+target
+
+# gradle
+.gradle
+gradle*
